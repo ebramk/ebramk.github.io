@@ -1190,6 +1190,10 @@ body{background: #fff}
     .single_service:hover .service_content p {
       color: #fff; }
 
+.service_title:hover a{
+color:white !important;
+}
+
 /*===========================
    10.CALL TO ACTION css 
 ===========================*/
